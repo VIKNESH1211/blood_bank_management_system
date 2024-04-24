@@ -1,5 +1,5 @@
-CREATE DATABASE Blood_bank_management; 
-USE Blood_bank_management;
+CREATE DATABASE user_autentication; 
+USE user_autentication;
 
 CREATE TABLE users (
   username VARCHAR(255) PRIMARY KEY,
